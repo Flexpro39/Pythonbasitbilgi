@@ -1,0 +1,8 @@
+print("Bir Windows PC'de python kurulu olup olmadiğini kontrol etmek için başlangıç ​​çubuğunda Python'u arayin veya Komut Satirinda (cmd.exe) aşağidakini çaliştirin:")
+print("User\Kullanici ismi\Dosya ismi>python --version")
+print("")
+print("Bir dosyayi calistirmak icin ise:")
+print("User\Kullanici ismi\Dosya ismi>python 3-bolum.py")
+print("")
+print("python ile isimiz bittigi zaman exit() yazmamiz yeterli olur")
+exit()
